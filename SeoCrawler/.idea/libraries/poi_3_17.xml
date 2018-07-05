@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="poi-3.17">
+    <CLASSES>
+      <root url="jar://D:/ProgramFiles/poi-3.17/poi-3.17.jar!/" />
+      <root url="jar://D:/ProgramFiles/poi-3.17/poi-examples-3.17.jar!/" />
+      <root url="jar://D:/ProgramFiles/poi-3.17/poi-excelant-3.17.jar!/" />
+      <root url="jar://D:/ProgramFiles/poi-3.17/poi-ooxml-3.17.jar!/" />
+      <root url="jar://D:/ProgramFiles/poi-3.17/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://D:/ProgramFiles/poi-3.17/poi-scratchpad-3.17.jar!/" />
+      <root url="file://D:/ProgramFiles/poi-3.17/ooxml-lib" />
+      <root url="file://D:/ProgramFiles/poi-3.17/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/ProgramFiles/poi-3.17/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://D:/ProgramFiles/poi-3.17/lib" recursive="false" />
+    <jarDirectory url="file://D:/ProgramFiles/poi-3.17/ooxml-lib" recursive="false" />
+  </library>
+</component>
